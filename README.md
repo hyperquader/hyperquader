@@ -1,6 +1,6 @@
 Hyperquader
 
-squares are only rectangles
+Every square is a rectangle — But not every rectangle is a square
 
 <!---
 hyperquader/hyperquader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
